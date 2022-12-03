@@ -1,70 +1,127 @@
-# Getting Started with Create React App
+# Sneakers Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ > Sneakers store is an eCommerce store that allow users to view a collection of sneakers, select interested shoes into a cart for purchase. The store is built with React.js, HTML5, and CSS3. This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Sneakers Store](#sneakers-store)
+  - [Table of contents](#table-of-contents)
+  - [📖 Overview](#-overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [💻 My process](#-my-process)
+    - [Built with](#built-with)
+    - [Prerequisites](#prerequisites)
+    - [App Setup](#app-setup)
+    - [What I learned](#what-i-learned)
+    - [Useful resources](#useful-resources)
+  - [👥 Author](#-author)
+  - [🤝 Contributing](#-contributing)
+  - [⭐️ Show your support](#️-show-your-support)
+  - [🙏 Acknowledgments](#-acknowledgments)
+  - [📝 License](#-license)
 
-### `npm start`
+## 📖 Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Users should be able to:
 
-### `npm test`
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshot
 
-### `npm run build`
+<!-- ![](./screenshot.jpg) -->
+Comming soon...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: Comming soon...
+- Live Site URL: Comming soon...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 My process
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2318B8D6.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white) ![StyleLint](https://img.shields.io/badge/StyleLint-%2318B8D6.svg?style=for-the-badge)
 
-## Learn More
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F0DB4F.svg?style=for-the-badge&logo=JavaScript&logoColor=white) ![ESlint](https://img.shields.io/badge/ESlint-%23F0DB4F.svg?style=for-the-badge)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![HTML5](https://img.shields.io/badge/HTML5-%23D93A2C.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![LightHouse](https://img.shields.io/badge/LightHouse-%23D93A2C.svg?style=for-the-badge)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![CSS3](https://img.shields.io/badge/CSS3-%23006BB4.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![StyleLint](https://img.shields.io/badge/StyleLint-%23006BB4.svg?style=for-the-badge)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Prerequisites
+The following applications are required to be installed for the project to run!
+- Modern browser e.g [Google Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge?r=1), [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) etc.
+- [Node.js](https://nodejs.org/en/download/) LTS version
+- [Git](https://git-scm.com/downloads)
 
-### Analyzing the Bundle Size
+### App Setup
+- Clone [this](git@github.com:PraisesPJMT/Sneakers-Store.git) GitHub repository using `git clone git@github.com:PraisesPJMT/Sneakers-Store.git`
+- Download all required modules using `npm install` inside the project directory (/Sneakers-Store)
+- Launch project on browser using `npm start` inside the project directory (/Sneakers-Store)
+    - This should launch the app on the browser
+    - If the app is not opened immediately, then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### What I learned
 
-### Making a Progressive Web App
+> These are some aspects of the project challenge I am most proud of:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
 
-### Advanced Configuration
+### Useful resources
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. -->
+Comming soon...
 
-### Deployment
+## 👥 Author
+👤 **Praises Tula**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraisesPJMT/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praises-tula/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PraisesPJMT/)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisesmusa@gmail.com)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/praises-tula/)
+## 🤝 Contributing
+
+Contributions, [issues](../../issues/), and feature requests are welcome!
+
+## ⭐️ Show your support
+
+Give a ⭐️ if you like this project!
+
+## 🙏 Acknowledgments
+- Frontend Mentor for this amazing project challenge
+- Hat tip to you for checking out this amazing project.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
